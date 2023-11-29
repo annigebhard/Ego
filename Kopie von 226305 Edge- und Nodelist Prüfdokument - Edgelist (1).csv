@@ -1,0 +1,21 @@
+from,to,weight,relation
+Anni,Anke,3,2
+Anni,Andreas,3,1
+Anni,Vanessa,3,5
+Anni,Richard,3,4
+Anke,Anni,3,2
+Anke,Andreas,3,1
+Anke,Vanessa,2,6
+Anke,Richard,1,6
+Andreas,Anni,3,3
+Andreas,Anke,3,3
+Andreas,Vanessa,2,6
+Andreas ,Richard,1,6
+Vanessa,Anni,3,5
+Vanessa,Anke,2,6
+Vanessa,Andreas,2,6
+Vanessa,Richard,1,6
+Richard,Anni,3,4
+Richard,Anke,1,6
+Richard,Andreas,1,6
+Richard,Vanessa,1,6
